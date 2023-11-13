@@ -2,5 +2,9 @@ Git
 Jenkins
 Docker
 Aws
+<<<<<<< HEAD
 
 these are DevOps tools
+=======
+we will learn a git today
+>>>>>>> parent of cd5ecad (Revert "second commit")
