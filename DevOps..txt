@@ -2,4 +2,3 @@ Git
 Jenkins
 Docker
 Aws
-we will learn a git today
